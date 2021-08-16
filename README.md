@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hbslima
+- 👋 Hi, I’m *@Hbslima*
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 📫 How to reach me -> email: henrique.bslima@hotmail.com
+- 📫 How to reach me -> **email: henrique.bslima@hotmail.com**
 
 
 <!---
