@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *@Hbslima*, aka Henrique Berquó de Souza Lima
+- 👋 Hi, I’m Henrique Lima, aka  *@Hbslima*
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me -> email: henrique.bslima@hotmail.com
 
