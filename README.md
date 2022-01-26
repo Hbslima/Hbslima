@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Henrique Lima, aka  *@Hbslima*
-- 🌱 I’m currently learning HTML, CSS, Javascript, C++, C# and UiPath.
 - 📫 How to reach me -> email: henrique.bslima@hotmail.com
 
 
