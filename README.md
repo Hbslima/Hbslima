@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Henrique Lima, aka  *@Hbslima*
-- 📫 How to reach me -> email: henrique.bslima@hotmail.com
+
 
 
 <!---
